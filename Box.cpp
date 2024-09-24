@@ -2,7 +2,7 @@
 using namespace std;
 
 void BoxPattern()  {
-    int r;
+    int r;  // number of rows
     cout<<"enter row : ";
     cin>>r;
 
